@@ -1,0 +1,6 @@
+Explain what the terminal is in your own words.
+-After revieing the Curve lecture, I had a better understanding that the Terminal is the ultimate "command line". This terminal can be used to navigate (create/open/remove) files on any directory on their own computer.
+What is the major difference between Git and Github?
+-Git is a form of a Version Control System (VCS). A VCS allows multiple users to work on their own local computer to manage their coding. Github is a "host" for these files that are created/modified using the Git management tool.
+Why do we use Github?
+-It is the most commonly used host.
